@@ -10,7 +10,7 @@ The objective of this hackathon is to create a powerful and accurate predictive 
 
 #### Walkthrough
 
-Here is the link to the dataset: <a href="[https://www.w3schools.com/](https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon-2023/data)">Hous prediction dataset</a>
+Here is the link to the dataset: <a href="[Dataset](https://zindi.africa/competitions/free-ai-classes-in-every-city-hackathon-2023/data)">Hous prediction dataset</a>
 The training dataset contains `14,000` rows and `7` columns `6` of which were predictors of the house price, the predictors include loc, parking space, bathroom, bedroom, id, and title.
 
 #### Data Cleaning:
